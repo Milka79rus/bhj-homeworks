@@ -1,0 +1,6 @@
+.clicker__cookie {
+    cursor: pointer;
+    /* курсор в виде руки */
+    transition: transform 0.1s ease;
+    /* плавное сжатие/расширение */
+}
